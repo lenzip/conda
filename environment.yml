@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - scikitlearn
   - toolz
   - matplotlib
   - dill
